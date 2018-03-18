@@ -22,7 +22,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone the repository
 
 ```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/Arend-Jan/LotteSimulator
 ```
 
 Change ip address to  your assigned ip address (needs to be fixed)
