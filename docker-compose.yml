@@ -3,7 +3,9 @@ services:
   anomalyconsumer:
     build: ./anomalyconsumer
     depends_on:
-      - producer
+      - kafka
+    links:
+      - kafka
   producer:
     build: ./producer
     depends_on:
